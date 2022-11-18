@@ -27,5 +27,6 @@ IEによる動作確認はしていません。
 mail to: uruzunyaa@gmail.com
 
 ## ライセンス
-
-[MIT](http://TomoakiTANAKA.mit-license.org)</blockquote>
+特になし。
+自由にコピーして使ってください。
+ただし、JSの勉強で書いたので相当コードは汚いです。
